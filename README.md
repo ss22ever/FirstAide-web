@@ -34,7 +34,7 @@ Or download the ZIP file from above
 4. Now extract the ZIP file of the project FirstAide-web which you have downloaded and paste it in the C:\xampp\htdocs (the path where your xampp is present)
 5. Open the file which you want to work with using the text editor you have downloaded
 6. Make the required changes and save the file
-7. Now, view your changes using the url http://localhost:8080/directory_name/file_name.extension  Example: 'http://localhost:8080/FirstAide-web/login.html'
+7. Now, view your changes using the url http://localhost/directory_name/file_name.extension/  Example: 'http://localhost/FirstAide-web/login.html'
 
 ###Documentation
 
