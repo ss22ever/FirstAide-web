@@ -34,7 +34,7 @@ Or download the ZIP file from above
 4. Now extract the ZIP file of the project FirstAide-web which you have downloaded and paste it in the C:\xampp\htdocs (the path where your xampp is present)
 5. Open the file which you want to work with using the text editor you have downloaded
 6. Make the required changes and save the file
-7. Now, view your changes using the url http://localhost:8080/directory_name/file_name.extension  Example: 'http://localhost:8080/FirstAide-web/login.html'
+7. Now, view your changes using the url http://localhost/directory_name/file_name.extension/  Example: 'http://localhost/FirstAide-web/login.html'
 
 ###Documentation
 
@@ -107,5 +107,5 @@ If you find an issue yourself you can report it, a community member will get bac
 3. Do not report issues which are previously reported by others. (Please check the closed issues too before you report an issue). 
 4. Do not suggest completely new developments in the issue list. (Please use the mailing list for this kind of suggestions. Use issue list to suggest bugs/features in the already implemented sections.)
 5. If an issue is reported by a person, it is automatically assigned to that person
-6. Use meaningful commit messages and sqaush all your commits into one
+6. Use meaningful commit messages and squash all your commits into one
 7. Only pick the issues which are labeled as free
